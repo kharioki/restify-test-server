@@ -1,0 +1,26 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "sample restify server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharioki/restify-test-server.git"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "kharioki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharioki/restify-test-server/issues"
+  },
+  "homepage": "https://github.com/kharioki/restify-test-server#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "restify": "^8.6.1"
+  }
+}
